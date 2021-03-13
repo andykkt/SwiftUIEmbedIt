@@ -15,9 +15,9 @@ Supporting embed container type: VStack, HStack, ZStack, ScrollView, GeometryRea
 Just select lines that you want to embed and select type to embed from the menu.
 You can use keybinding in Xcode preference to make even faster.
 
-![Image of Menu](Assets/EmbedIt-Keybinding-Preview.gif)
-
 <iframe width="1034" height="582" src="https://www.youtube.com/embed/gCiv5njPzz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Supports
 
