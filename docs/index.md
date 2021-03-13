@@ -1,4 +1,4 @@
-![Image of AppIcon](Assets/EmbedIt.png)
+![Image of AppIcon](Assets/EmbedIt-logo.png)
 
 ## SwiftUI EmbedIt!
 
