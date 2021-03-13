@@ -17,6 +17,8 @@ You can use keybinding in Xcode preference to make even faster.
 
 ![Image of Menu](Assets/EmbedIt-Keybinding-Preview.gif)
 
+<iframe width="1034" height="582" src="https://www.youtube.com/embed/gCiv5njPzz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Supports
 
 * [Open an Issue](https://github.com/andykkt/SwiftUIEmbedIt/issues/new) if you catch any error or if you have any feedback.
