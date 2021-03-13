@@ -16,3 +16,8 @@ Just select lines that you want to embed and select type to embed from the menu.
 You can use keybinding in Xcode preference to make even faster.
 
 ![Image of Menu](Assets/EmbedIt-Keybinding-Preview.gif)
+
+### Supports
+
+* [Open an Issue](https://github.com/andykkt/SwiftUIEmbedIt/issues/new) if you catch any error or if you have any feedback.
+* [Buy me a coffee](https://paypal.me/andykkt?locale.x=en_AU) If you like this project!
