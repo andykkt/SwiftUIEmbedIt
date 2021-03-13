@@ -4,7 +4,7 @@
 
 
 ### Xcode Editor Menu
-![Image of Menu](https://github.com/andykkt/SwiftUIEmbedIt/blob/main/docs/Assets/EmbedIt-EditorMenu.png)
+![Image of Menu](Assets/EmbedIt-EditorMenu.png)
 
 
 ### Demo with Xcode Keybinding - You can quickly embed multiple views
