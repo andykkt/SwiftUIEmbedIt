@@ -1,4 +1,4 @@
-![Image of AppIcon](https://github.com/andykkt/SwiftUIEmbedIt/blob/main/docs/Assets/EmbedIt.png)
+![Image of AppIcon](Assets/EmbedIt.png)
 
 ## SwiftUI EmbedIt!
 
@@ -8,4 +8,4 @@
 
 
 ### Demo with Xcode Keybinding - You can quickly embed multiple views
-![Image of Menu](https://github.com/andykkt/SwiftUIEmbedIt/blob/main/docs/Assets/EmbedIt-Keybinding-Preview.gif)
+![Image of Menu](Assets/EmbedIt-Keybinding-Preview.gif)
