@@ -6,6 +6,7 @@
 ### Xcode Editor Menu
 
 Supporting embed container type: VStack, HStack, ZStack, ScrollView, GeometryReader, List, NavigationView, Generic Container, Group, ForEach
+
 ![Image of Menu](Assets/EmbedIt-EditorMenu.png)
 
 
